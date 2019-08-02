@@ -1,0 +1,6 @@
+exports[`ApiCallExample API calls and handles fetchData result correctly 1`] = `
+Array [
+  2,
+  4,
+]
+`;
